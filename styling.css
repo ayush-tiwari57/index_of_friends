@@ -147,7 +147,7 @@ ul li a{
     color: white;
 }
 .showcase1{
-    background: url('/tvseries/images/VLqMEa1-friends-tv-show-wallpapers.jpg') no-repeat center center/cover;
+    background: url('../tvseries/images/VLqMEa1-friends-tv-show-wallpapers.jpg') no-repeat center center/cover;
     height: 100vh;
 }
 .showcase1 h1{
