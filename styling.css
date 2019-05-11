@@ -45,11 +45,11 @@ ul li a{
 
 .showcase{
     background: url('../tvseries/images/641478.JPEG') no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .showcase h1{
     font-size: 70px;
-    text-align: centre;
+    text-align: center;
     padding: 200px;
     padding-top: 280px;
     color: rgb(236, 148, 148);
@@ -99,8 +99,9 @@ ul li a{
     background:grey;
 }
 .btn{
+    display: flex;
     padding: 15px;
-    margin-left: 200px;
+    justify-content: center;;
 }
 .info #info-content #stats{
     display: flex;
@@ -123,7 +124,7 @@ ul li a{
     height: 300px;
 }
 .item a{
-    text-decoration: none;
+    text-decoration: underline;
     text-align: center;
     padding-left: 65px;
     font-size: 20px;
@@ -147,7 +148,7 @@ ul li a{
 }
 .showcase1{
     background: url('/tvseries/images/VLqMEa1-friends-tv-show-wallpapers.jpg') no-repeat center center/cover;
-    height: 700px;
+    height: 100vh;
 }
 .showcase1 h1{
     font-size: 70px;
@@ -166,7 +167,7 @@ ul li a{
     margin: 10px;
 }
 .download .box p a{
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
 }
 .download h1{

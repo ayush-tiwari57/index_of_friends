@@ -1,0 +1,59 @@
+.navbar ul li a,.navbar ul li a:hover, .navbar ul li a.current{
+    font-size: 0.7rem;
+    padding-top: 0.5rem;
+    margin: 0.6rem;
+}
+
+.navbar{
+    padding: 6px;
+}
+.navbar h1, .navbar i{
+    font-size: 0.85rem;
+    padding-top: 0.85rem;
+}
+.showcase{
+    height:70vh;
+    width: 100%;
+}
+.showcase h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 100px;
+}
+.info #info-content h1{
+    font-size:38px;
+}
+#info-content #primary-text{
+    font-size: 28px;
+}
+#info-content #secondary-text{
+    font-size: 18px;
+}
+.info #info-content #stats{
+    font-size: 16px;
+}
+.info #info-content #stats2{
+    margin-left: 50px;
+}
+.info #info-img{
+    display: none;
+}
+.seasons .box{
+    display: grid;
+    grid-template-columns:repeat(1,auto);
+    justify-content: center;
+}
+.showcase1 h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 100px;
+}
+.showcase1{
+    height:70vh;
+    width: 100%;
+}
+.download .box{
+    display: grid;
+    grid-template-columns:repeat(3,auto);
+    justify-content: center;
+}
